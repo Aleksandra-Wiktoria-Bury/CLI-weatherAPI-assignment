@@ -1,0 +1,25 @@
+{
+  "name": "weathercli-aleksandra-wiktoria-bury",
+  "version": "1.0.0",
+  "description": "### Weather CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E03/node-weathercli-Aleksandra-Wiktoria-Bury.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E03/node-weathercli-Aleksandra-Wiktoria-Bury/issues"
+  },
+  "homepage": "https://github.com/FbW-E03/node-weathercli-Aleksandra-Wiktoria-Bury#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "date-fns": "^2.25.0",
+    "dotenv": "^10.0.0"
+  }
+}
